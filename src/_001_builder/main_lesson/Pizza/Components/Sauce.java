@@ -1,0 +1,6 @@
+package _001_builder.main_lesson.Pizza.Components;
+
+public enum Sauce {
+    WHITE,
+    RED
+}
